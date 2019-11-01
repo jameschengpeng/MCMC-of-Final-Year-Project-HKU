@@ -11,7 +11,7 @@ We call a certain valid way to assign colors to each vertex in the graph as one 
 
 ## Questions we are concerned about
 ### About vertices
-Then, assume the valid configurations are uniformly distributed, what is the average number of vertices which all occupy a same certain color (say, red)? What if we compute this quantity for every color and take the average? Intuitively, we may think that the average number of vertices which occupy a same certain color should be the same among each color, which is $$\frac{n}{q}$$. Then how do we prove it? If there is a method to "traverse" the configurations, will the average number of vertices occupying the same color converge during the traversal?
+Then, assume the valid configurations are uniformly distributed, what is the average number of vertices which all occupy a same certain color (say, red)? What if we compute this quantity for every color and take the average? Intuitively, we may think that the average number of vertices which occupy a same certain color should be the same among each color, which is $\frac{n}{q}$. Then how do we prove it? If there is a method to "traverse" the configurations, will the average number of vertices occupying the same color converge during the traversal?
 
 ### About edges
 
